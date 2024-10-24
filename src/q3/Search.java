@@ -1,4 +1,4 @@
- package q2;
+ package q3;
 
  import java.io.BufferedReader;
  import java.io.FileReader;
